@@ -4,7 +4,7 @@
 
 ### Project & Learning Motivations
 
-I'm constantly trying different development patterns, technologies, tools, and frameworks as I refine my own ability to create, style, and refactor engineering projects. The styling and formatting can vary greatly between projects, but each has strong internal formatting consistency. The listed projects are primarily learning demonstrations for potential employers and myself, and are currently formatted for my own readability. I'm very familiar with utilizng team formatting tools (Prettier/EsLint/popular style guides) and can easily output code in any style format requested of me.
+I'm constantly trying different development patterns, technologies, tools, and frameworks as I refine my own ability to create, style, and refactor engineering projects. The styling and formatting can vary greatly between projects, but each has strong internal formatting consistency. The listed projects are primarily learning demonstrations for potential employers and myself, and are currently formatted for my own readability. I'm very familiar with utilizing team formatting tools (Prettier/EsLint/popular style guides) and can easily output code in any style format requested of me.
 
 ### Tech Stack
 
