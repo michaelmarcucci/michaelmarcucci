@@ -1,6 +1,6 @@
 ## Better Living through Better Engineering
 
- A true follower of Atomic Habits and constantly working to create superior habits and systems that provide more energy, clarity, organization, mental & physical health, and total freedom as I build projects to power a a better engineered world. 
+ A true follower of Atomic Habits and constantly working to create superior habits and systems that provide more energy, clarity, organization, mental & physical health, and total freedom as I build projects to power a better engineered world. 
 
 ### Project & Learning Motivations
 
